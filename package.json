@@ -1,0 +1,27 @@
+{
+  "name": "node-ex",
+  "version": "0.0.1",
+  "description": "Node.js example for AusNimbus",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ausnimbus/node-ex.git"
+  },
+  "author": "AusNimbus <support@ausnimbus.com.au>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "http://github.com/ausnimbus/node-ex/issues"
+  },
+  "homepage": "http://github.com/ausnimbus/node-ex"
+}
